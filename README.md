@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DF1616&title_bg=%2373AED3&icon=Github-181717.svg&icon_color=%230B0B0B&title=hits&edge_flat=false)](https://github.com/Ppangg)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnlwlrgodiwl)](https://solved.ac/cnlwlrgodiwl/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnlwlrgodiwl)](https://solved.ac/cnlwlrgodiwl/) &nbsp;&nbsp;
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cnlwlrgodiwl&theme=dark)
 ![Ppangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ppangg&show_icons=true&theme=radical)
 ![잔디](https://ghchart.rshah.org/0033ff/Ppangg)

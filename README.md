@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnlwlrgodiwl)](https://solved.ac/cnlwlrgodiwl/) &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwangHyunKK&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-![잔디](https://ghchart.rshah.org/FFF700/KwangHyunKK)
+![잔디](https://ghchart.rshah.org/FF0000/KwangHyunKK)
 
 
 # 💪Skills

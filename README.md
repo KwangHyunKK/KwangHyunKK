@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+![KwangHyunKK's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwangHyunKK&show_icons=true&theme=aura)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnlwlrgodiwl)](https://solved.ac/cnlwlrgodiwl/) &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwangHyunKK&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnlwlrgodiwl)](https://solved.ac/cnlwlrgodiwl/) &nbsp;&nbsp;&nbsp;
-![KwangHyunKK's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwangHyunKK&show_icons=true&theme=cobalt)
-![잔디](https://ghchart.rshah.org/FF0033/KwangHyunKK)
+![잔디](https://ghchart.rshah.org/FFF700/KwangHyunKK)
 
 
 # 💪Skills
